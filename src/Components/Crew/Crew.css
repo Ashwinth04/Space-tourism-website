@@ -1,0 +1,101 @@
+.bgimgc{
+    background-image:url("/public/assets/crew/background-crew-desktop.jpg");
+    width:100vw;
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+  }
+  
+  .doug{
+    position:absolute;
+    bottom: 0;
+    height:550px;
+    right:200px;
+  
+  }
+  
+  .total-content{
+    margin-bottom: 0;
+    margin-top:115px;
+  }
+  
+  .crew-content{
+    display: inline-block;
+    width:500px;
+    color:white;
+    margin-left:175px;
+  }
+  
+  .meet{
+    color:white;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    display:inline-block;
+    top:170px;
+    left:170px;
+    letter-spacing: 4.75;
+  }
+  
+  .dh{
+    font-size: 56px;
+    display: inline-block;
+    width:800px;
+    font-family: 'Bellefair', serif;
+  }
+  
+  .cm{
+    font-size: 32px;
+    font-family: 'Bellefair', serif;
+    color: grey;
+  }
+  
+  .crew-info{
+    line-height: 2;
+    font-size: 19px;
+    opacity: 0.7;
+  }
+  
+  .num{
+    position: static;
+    margin-top: 0;
+    color: grey;
+    font-weight: bolder;
+    margin-right: 20px;
+  }
+  
+  .down-bar{
+    display: inline-block;
+    position:absolute;
+    width:12.5px;
+    height:12.5px;
+    border-radius:50%;
+    background-color: #38393f;
+    
+    cursor:pointer;
+  }
+
+  .specialist{
+    left:200px;
+   
+  }
+
+  .pilot{
+    left:225px;
+    
+  }
+
+  .engineer{
+    left:250px;
+  }
+
+  .down-bar:hover{
+     background-color: #95969b;
+  }
+
+  .crew{
+    top:123px;
+    width:90px;
+    right:315px;
+  }

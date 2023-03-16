@@ -1,0 +1,108 @@
+.bgimgd{
+    background-image: url("/public/assets/destination/background-destination-desktop.jpg");
+    width:100vw;
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+  }
+
+  .pyd{
+    color:white;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 40px;
+    position:absolute;
+    display:inline-block;
+    top:170px;
+    left:170px;
+    letter-spacing: 4.75;
+  }
+  
+  .moon {
+    position:absolute;
+    display:inline-block;
+    top:300px;
+    left:200px;
+  }
+  
+  .moon-img{
+    width:400px;
+  }
+  
+  .content{
+    display: inline-block;
+    position:absolute;
+    color:white;
+    width:450px;
+    top:230px;
+    right:165px;
+  }
+  
+  .heading{
+    position: relative;
+  }
+  
+  .bar p{
+    display:inline-block;
+    margin-right: 40px;
+    font-weight: lighter;
+    opacity:0.8;
+    cursor:pointer;
+  }
+  
+  .heading{
+    font-size: 100px;
+    font-family: 'Bellefair', serif;
+    margin-top:35px;
+  }
+  
+  .description{
+    font-family: 'Bellefair', serif;
+    line-height: 1.5;
+    font-size: 18px;
+    font-weight: lighter;
+    opacity: 0.8
+  }
+  
+  .lined{
+    position: absolute;
+    right: 2px;
+    top: 325px;
+    opacity: 0.6;
+    width:450px;
+  }
+  
+  .measures{
+    display:inline-block;
+    margin-right:50px;
+    width:160px;
+    margin-top: 50px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    opacity: 0.8;
+  }
+  
+  .an{
+    width:120px;
+  }
+  
+  .qua{
+    top: 5px;
+    font-size: 34px;
+    font-weight: bold;
+  }
+  
+  .num{
+    position: static;
+    margin-top: 0;
+    color: grey;
+    font-weight: bolder;
+    margin-right: 20px;
+  }
+
+  .destination{
+    top:123px;
+    width:150px;
+    right:430px;
+    
+  }

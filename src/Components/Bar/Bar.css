@@ -1,0 +1,67 @@
+
+  
+  body{
+    margin:0;
+   
+  }
+  
+  .navbar{
+    color:white;
+    position:absolute;
+    width:950px;
+    right:0;
+    height:96px;
+    backdrop-filter: blur(180px);
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight:normal;
+    font-size: 28px;
+    text-transform:uppercase;
+  }
+  
+  .all{
+    position:relative;
+    top:15px;
+  }
+  
+  .som{
+    position:absolute;
+    right:100px;
+  }
+  
+  .navthings{
+    margin:auto 20px;
+    cursor: pointer;
+  }
+  
+  b{
+    margin-right: 10px;
+  }
+  
+  hr{
+    position:relative;
+    top:60px;
+    z-index: 1;
+    width:475px;
+    right:390px;
+  }
+  
+  .logo{
+    position:absolute;
+    top:60px;
+    left:30px;
+  }
+
+  .denote{
+    position:absolute;
+  }
+
+  a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+  
+
+ 
+  
